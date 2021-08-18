@@ -3,8 +3,12 @@
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
--->
+
 [![Linkedin Badge](https://img.shields.io/badge/-Divya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+-->
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Divya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyavenkatiyer/)
+ [![Mail Badge](https://img.shields.io/badge/-divya00786-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:divya00786@gmail.com)
 
 <!--I'm
 Full Stack Solution Architect
@@ -23,12 +27,33 @@ I have a wide range of skills that include back-end development using open sourc
 </div>
 -->
 
+- 🔭 I’m currently working on creating a Food based website
+- 🌱 I’m currently learning Web development technologies
+- 😄 Pronouns: Div
+- ⚡ Fun fact: I do doodle and dance
+
 Languages and Tools:
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=flat-square&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=DivyaJanaki&theme=react-dark&area=true)
+#### Top Technologies
 
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+
+#### Bizness
+<!--
+- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+-->
+- :email: divya00786@gmail.com 
+
+<!--#### Github Stats
+
+![Divya's github stats](https://github-readme-stats.vercel.app/api?username=DivyaJanaki&count_private=true&theme=tokyonight&hide=contribs,prs)
+-->
 
 <!--
 **DivyaJanaki/DivyaJanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
