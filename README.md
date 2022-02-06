@@ -12,7 +12,7 @@
 
 <!--I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 -->
 I am Divya Janaki from India, Web developer with interests in learning and building technology in a creative manner. I believe that learning is a continuous process. 
 I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, HTML5, CSS, Javascript, Bootstrap),database(MongoDB,Mysql). I am passionate on UI UX designing along with front-end web development.
