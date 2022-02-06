@@ -27,7 +27,7 @@ I have a wide range of skills that include back-end development using open sourc
 </div>
 -->
 
-- 🔭 Link to one of my projec(dummy): https://lavanyacrafts.netlify.app/
+- 🔭 Link to one of my project (dummy): https://lavanyacrafts.netlify.app/
 
 Languages and Tools:
 
